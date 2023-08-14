@@ -1,7 +1,7 @@
 #Oasis Infobyte Project
 ##Sales Prediction
 #"task 1"
-###Arshpreet Singh
+###Puneet
 
 # Random Forest Regression
 
