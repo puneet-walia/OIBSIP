@@ -1,7 +1,7 @@
 #<u>Oasis Infobyte Project</u>
 ##<i>Iris Flower Classification</i><br>
 #"task 1"
-###Arshpreet Singh
+###Puneet
 
 import numpy as np
 import pandas as pd
